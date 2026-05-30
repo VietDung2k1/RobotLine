@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="doc/demo2.gif" alt="Demo">
+</p>
+
 # Line Following Robot
 
 Simple source code for a line following robot using Arduino.
@@ -25,5 +29,3 @@ The robot reads the line sensor array, calculates the line position error, then 
 ## Build & Upload
 
 Open the source code in Arduino IDE, select the correct board and port, then upload.
-
-![Demo](doc/demo2.gif)
